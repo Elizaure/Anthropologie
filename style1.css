@@ -1,0 +1,106 @@
+
+body { 
+	padding-top: 70px;
+	background:rgba(167,29,49,0.75);
+	color:#fafafa;
+}
+
+#footer {
+	background-color:#252525;
+	color:#fafafa;
+	background-size: cover;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+h1 {
+	font-family: "Droid Serif";
+	font-size: 40px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	opacity: 1;
+}
+h2 {
+	font-family: "Droid Serif";
+	font-size: 32px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 800;
+	line-height: 35px;
+	opacity: 1;
+}
+p {
+	font-family: "Droid Serif";
+	font-size: 22px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 28px;
+	opacity: 1;
+}
+a {
+	font-family: "Droid Serif";
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 28px;
+	opacity: 1;
+}
+#milieu {
+	font-family: "Droid Serif";
+	font-size: 22px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 28px;
+	opacity: 1;
+}
+#milieu a{
+	font-family: "Droid Serif";
+	font-size: 22px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 28px;
+	opacity: 1;
+}
+#bs-example-navbar-collapse-1{
+	background-color: #a71d31;
+}
+.navbar {
+	background-color: #a71d31;
+}
+
+.essai {
+	display: inline-block;
+	width:38%;
+	margin:1em;
+	vertical-align: top;
+}
+
+.video {
+	display: inline-block;
+	width:50%;
+	margin:1em;
+}
+.essai2 {
+	display: inline-block;
+	width:52%;
+	margin:1em;
+	vertical-align: top;
+}
+
+.video2 {
+	display: inline-block;
+	width:40%;
+	margin:1em;
+}
+.lignes {
+	margin:1em;
+}
+
+.centrage {
+	margin-left:20em;
+}
